@@ -15,6 +15,8 @@
 bin/
 gen/
 out/
+app/libs
+
 
 # Gradle files
 .gradle/
@@ -60,14 +62,14 @@ freeline_project_description.json
 .idea/
 
 # Strings
-Lastmily/src/main/res/values-zz-rZZ/strings.xml
-Lastmily/lastmily_android_here.zip
+OfflineMaps/src/main/res/values-zz-rZZ/strings.xml
+
 *.zip
-Lastmily/src/main/java/com/thinkSocialLtd/lastmily/db/StopPointDbHandler.kt
-Lastmily/debug/output.json
-Lastmily/release/output.json
+OfflineMaps/src/main/java/com/thinkSocialLtd/lastmily/db/StopPointDbHandler.kt
+OfflineMaps/debug/output.json
+OfflineMaps/release/output.json
 
 *.aab
-LastmilyDriver/debug/output-metadata.json
-LastmilyDriver/release/output-metadata.json
+OfflineMaps/debug/output-metadata.json
+OfflineMaps/release/output-metadata.json
 sentry.properties
